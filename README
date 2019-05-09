@@ -1,7 +1,7 @@
 .. -*- mode: rst -*-
-==========================================
- Keyboards for the Indoeuropean languages
-==========================================
+=====================================
+ Keyboards for Indoeuropean languages
+=====================================
 
 This directory contains source files and build instructions for developing
 keyboards for the Indoeuropean languages. The data and implementations
@@ -33,7 +33,7 @@ Downloading
 -----------
 
 The Indoeuropean keyboard sources can be acquired using the `Giella SVN
-repository <http://divvun.no/doc/infra/anonymous-svn.html>`_, from the
+repository <http://giellalt.uit.no/infra/anonymous-svn.html>`_, from the
 language specific directory for keyboards, after the core has been downloaded
 and initial setup has been performed.
 
