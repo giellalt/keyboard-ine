@@ -1,0 +1,13 @@
+locales:
+  en:
+    name: Indoeuropean Keyboards
+    description: >-
+      Mobile OS keyboards for the Indoeuropean languages from the Divvun group
+      at UiT.
+  nb:
+    name: Indoeuropeisk tastatur
+    description: Mobiltastatur for indoeuropeiske språk fra Divvun-gruppa.
+author: 'The Divvun Group, UiT Norgga árktalaš universitehta'
+copyright: (c) 2017 Divvun/Giellatekno/UiT
+email: feedback@divvun.no
+organisation: UiT Norgga árktalaš universitehta
