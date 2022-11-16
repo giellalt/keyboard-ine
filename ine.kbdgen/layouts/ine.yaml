@@ -6,16 +6,6 @@ displayNames:
   nb: Indoeuropeinsk
   'no': Indoeuropeinsk
   sv: Indoeuropeinska
-modes:
-  mobile:
-    default: |
-      q w e r t y u i o p å '
-      a s d f g h j k l ä ö .
-        ß z x c v b n m ç ü
-    shift: |
-      Q W E R T Y U I O P Å '
-      A S D F G H J K L Ä Ö .
-        ß Z X C V B N M Ç Ü
 longpress:
   A: Á À Ã Â Æ
   D: Đ
@@ -41,11 +31,7 @@ longpress:
   z: ʒ ǯ
   ʹ: ˈ
   ʼ: ˈ
-strings:
+keyNames:
   space: Space
   return: Return
-targets:
-  ios:
-    legacyName: ine_mobile_keyboards
-  android:
-    legacyName: ine_mobile_keyboards
+
