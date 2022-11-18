@@ -6,6 +6,7 @@ displayNames:
   nb: Indoeuropeinsk
   'no': Indoeuropeinsk
   sv: Indoeuropeinska
+
 longpress:
   A: Á À Ã Â Æ
   D: Đ
@@ -31,6 +32,7 @@ longpress:
   z: ʒ ǯ
   ʹ: ˈ
   ʼ: ˈ
+
 keyNames:
   space: Space
   return: Return
