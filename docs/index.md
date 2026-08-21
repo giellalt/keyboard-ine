@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Documentation for the Indo-European languages keyboards
 
 ## Layouts
